@@ -1,6 +1,6 @@
 ##############################################################
 
-wioGpsM4.name=Wio Tracker LTE
+wioGpsM4.name=Seeed Wio LTE
 
 wioGpsM4.upload.tool=stm32flash
 wioGpsM4.upload.protocol=dfu
